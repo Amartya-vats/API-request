@@ -1,0 +1,6 @@
+libraries required:
+    parse
+    datetime
+    requests
+    json
+can be installed by pip install __lib name__
