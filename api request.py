@@ -5,8 +5,8 @@ import json
 
 # easiest way to manupilate json data is to use class and then run loops through it
 
-URL_getting =''
-URL_posting =''
+URL_getting ='__'
+URL_posting ='__'
 
 #function to get from the url supplied in the main
 def getting ():
@@ -24,7 +24,7 @@ def processing(data):
 # serializing to post back to api
 def get_payload(result_list):
     payload = dict()
-    payload['countries'] = list(map(lambda result: ))
+    payload['countries'] = list(map(lambda result: ___))
     return payload
 
 def main():
