@@ -35,8 +35,8 @@ class Partner:
 
 
 # here is where we can call the functions with the associated urls
-URL_getting ='https://candidate.hubteam.com/candidateTest/v3/problem/dataset?userKey=ed6d8e173a626e0c484ddc616dc6'
-URL_posting ='https://candidate.hubteam.com/candidateTest/v3/problem/result?userKey=ed6d8e173a626e0c484ddc616dc6'
+URL_getting ='https://candidate.hubteam.com/candidateTest/v3/problem/dataset?userKey=__'
+URL_posting ='https://candidate.hubteam.com/candidateTest/v3/problem/result?userKey=__'
 
 #function to get from the url supplied in the main
 def getting ():
